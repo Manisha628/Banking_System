@@ -16,7 +16,6 @@ java BankingApp
 📂 Project Structure
 'src/': Contains the Java source code files.
 'database/': Includes SQL scripts for database setup.
-'screenshots/': Screenshots of the application in action.
 📦 Features
 User Registration & Login
 Account Creation
@@ -28,8 +27,4 @@ Robust Security Measures
 Java
 JDBC (Java Database Connectivity)
 MySQL (or your preferred database system)
-📸 Screenshots
-Screenshot 1
-🤝 Contributing
-Contributions are welcome! Feel free to submit issues and pull requests.
 Happy coding! 🎉
